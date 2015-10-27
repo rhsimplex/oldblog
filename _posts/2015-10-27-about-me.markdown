@@ -1,6 +1,6 @@
 ---
 published: true
 title: About Me
-layout: post
+layout: page
 ---
 test
