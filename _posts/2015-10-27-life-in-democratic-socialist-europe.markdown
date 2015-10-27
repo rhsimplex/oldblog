@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Life in (democratic) socialist Europe
 layout: post
 ---
@@ -89,4 +89,4 @@ This is real, and annoying. The standards of fair use are different, but this is
 
 ## Is it better or worse? 
 
-I certainly made more money in the US, which was nice. I have more time to enjoy it in Germany, however. If you are rich or making a lot of money, it can feel like you're going without some things you take for granted at home. If you are poor or just down on your luck, you can live a basic (perhaps not comfortable) life here until you get back on your feet. The notion of an unexpected medical bill becoming a huge financial burden, or draining your savings to send your kids to college is completely alien here. Germans tend to value social cohesion above individual wealth. 
+I certainly made more money in the US, which was nice. I have more time to enjoy it in Germany, however. If you are rich or making a lot of money, it can feel like you're going without some things you take for granted at home. If you are poor or just down on your luck, you can live a basic (perhaps not comfortable) life here until you get back on your feet. The notion of an unexpected medical bill becoming a huge financial burden, or draining your savings to send your kids to college is completely alien here. Germans tend to value social cohesion above individual wealth.
