@@ -35,7 +35,7 @@ It's true that almost nowhere has central air! Only in modern office buildings a
 
 >Gasoline is usually $7-10 per gallon (about 1.50 Euros per liter as I write this), due to the government's insanely aggressive taxes on fuel.
 
-Gasoline is expensive, and Germany is a country where people love cars. Remember, though, that [fossil fuels are in fact heavily subsidized in the United States](http://www.theguardian.com/environment/2015/may/12/us-taxpayers-subsidising-worlds-biggest-fossil-fuel-companies).  The US is also one of the biggest oil producing countries in the world. Europe is relatively oil-poor with the exception of some Scandinavian countries.
+Gasoline is expensive, and Germans love their cars. Remember, though, that [fossil fuels are in fact heavily subsidized in the United States](http://www.theguardian.com/environment/2015/may/12/us-taxpayers-subsidising-worlds-biggest-fossil-fuel-companies).  The US is also one of the biggest oil producing countries in the world. Europe is relatively oil-poor with the exception of some Scandinavian countries.
 
 On the flip side, Germany has clean, efficient, and fast public transportation to anywhere in the country. Even the smallest towns are connected to the passenger rail network. It's difficult to describe, because we simply have nothing like it in the US. As a result, many Germans who live in cities forego cars altogether, since you can often get where you're going faster on a subway or over-ground train. Additionally, airlines are considerably less regulated in Europe than the US, so airfare is often cheaper for similar distances.
 
