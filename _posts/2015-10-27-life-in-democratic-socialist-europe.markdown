@@ -21,7 +21,7 @@ Taxes are higher in Germany, without a doubt. The top tax rate is around 35%, wh
 
 Welfare is very easy to apply for, but you must prove you are looking for work while receiving it (again, in Germany). If you turn down too many job offers, you will no longer receive welfare.
 
-In exchange, many things Americans expect to pay for at home are provided by the state in Germany. College and grad school are almost completely free. Public schools are of uniformly high quality and teachers are well-paid. Daycare is extremely cheap compared to the US, and parents receive more generous tax credits, and maternity/paternity leave. German law also mandates a minimum of 5 weeks vacation for full time workers.
+In exchange, many things Americans expect to pay for at home are provided by the state in Germany. College and grad school are almost completely free. Public schools are of uniformly high quality and teachers are well-paid. Daycare is extremely cheap compared to the US, and parents receive more generous tax credits and maternity/paternity leave. German law also mandates a minimum of 5 weeks vacation for full time workers.
 
 The German healthcare system is surprisingly similar to the US system: health insurance is required, and your employer must pay part of it. However, the premium is dictated by your income, so part time workers, students, and the unemployed, for example, pay less. Different countries have varying degrees of socialized healthcare: in France and the UK, healthcare is completely free.
 
