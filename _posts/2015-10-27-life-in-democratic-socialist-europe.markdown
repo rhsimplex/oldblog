@@ -13,6 +13,8 @@ Below is an edited version of my answer.  I'll quote sections of the article, an
 
 ## Taxes and Welfare
 
+He begins:
+
 > There is a crushing 20% sales tax on everything. There is also a TV tax, a radio tax, a dog tax, a death tax of up to 50%, and every other kind of tax you could possibly imagine...for a grand total of about 60-65% of your income (unless you have already been brutalized into poverty by this system, in which case you get welfare).
 
 Taxes are higher in Germany, without a doubt. The top tax rate is around 35%, which is similar to the US (Sweden and Norway for example have higher tax rates like the one in this article). The main difference is that higher tax rates start at much lower incomes than in the US. Sales tax is 20% in Germany, but it's always baked in to the final price. Berlin, where I live, is considered a cheaper large city and probably has a cost of living similar to Pittsburgh. Social security is also collected at a higher rate here, but of course you get more out when you retire.
