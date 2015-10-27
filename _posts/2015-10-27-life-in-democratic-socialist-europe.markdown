@@ -82,3 +82,8 @@ Hate speech is illegal, and this is mostly a consequence of the Nazi legacy. The
 >It costs thousands of dollars to get a license, own a car, and pay for the more than $1 million of auto insurance you are forced to carry...and there are speed cameras everywhere, and there is no gray area (my boss couldn't even get out of a ticket from when he sped his wife to the hospital to give birth).
 
 Cars are more expensive, but again, most people do not rely on them. You can however drive as fast as you want on many highways in Germany. There is literally no speed limit.
+
+>Nearly two-thirds of YouTube’s top 1,000 videos have been banned in Germany due to the fanatical German Journalists’ Union (DJV) absurdly demanding that artists be paid for each and every video that in any way uses any part of their music--even if it is just some random user having part of some random song on in the background of their video.
+
+This is real, and annoying. The standards of fair use are different, but this is rather unpopular and will probably change soon.
+
