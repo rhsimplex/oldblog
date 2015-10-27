@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://rhsimplex.github.io
 title: Puns & Fingerguns
 tagline: Having a lovely data
-description: Very Blog
+description: Ryan's Blog
 paginate: 5
