@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rhsimplex.github.io
+title: Ryan Henderson
+tagline: Having a lovely data
+description: My awesome new site
+paginate: 5
