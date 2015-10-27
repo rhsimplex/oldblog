@@ -9,7 +9,7 @@ Then she asked me: "Is Germany really like that??"
 
 The article's [author](http://www.examiner.com/conservative-in-national/robert-moon) did not enjoy his stay in Europe.  While he does a good job of pointing out the many drawbacks of European (specifically German) life _vis-à-vis_ American life, he forgets -- or deliberately omits -- the corresponding advantages.
 
-Below is an edited version of my response.  I'll quote sections of the article, and follow them with my response.  The first point of contention, naturally, is taxes:
+Below is an edited version of my answer.  I'll quote sections of the article, and follow them with my response.  The first point of contention, naturally, is taxes:
 
 ## Taxes and Welfare
 
