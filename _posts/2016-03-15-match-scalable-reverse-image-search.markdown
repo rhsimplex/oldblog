@@ -1,6 +1,6 @@
 ---
 published: true
-title: match: Scalable reverse image search
+title: match, a Scalable reverse image search
 layout: post
 ---
 [Alex Kern](https://github.com/kern) and the [Pavlov team](https://pavlovml.com/) have built a containerized, scalable reverse image search based on my [image-match library](https://github.com/ascribe/image-match).  They also added a nice REST API, which makes it much more useful for the typical user.
